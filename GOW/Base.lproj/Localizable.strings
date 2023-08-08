@@ -1,0 +1,12 @@
+/* 
+  Localizable.strings
+  GOW
+
+  Created by Juan Andrés Cervantes Guati Rojo on 05/08/23.
+  
+*/
+
+"menu.option.videogames" = "Video game";
+"menu.option.weapons" = "Weapons";
+"menu.option.characters" = "Characters";
+"menu.option.merchandise" = "Merchandise";
