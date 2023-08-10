@@ -26,6 +26,9 @@
 
 /* Begin PBXFileReference section */
 		A81A075B2A81CBFC009200B0 /* LocustWeaponsController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LocustWeaponsController.swift; sourceTree = "<group>"; };
+		A84FAE952A846D0F00FFA764 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/Main.strings; sourceTree = "<group>"; };
+		A84FAE962A846D0F00FFA764 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = es.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
+		A84FAE972A846D0F00FFA764 /* es */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = es; path = ../es.lproj/Localizable.strings; sourceTree = "<group>"; };
 		A86A97572A7EA140003FCC89 /* GOW.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = GOW.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A86A975A2A7EA140003FCC89 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		A86A975C2A7EA140003FCC89 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -180,6 +183,7 @@
 				en,
 				Base,
 				it,
+				es,
 			);
 			mainGroup = A86A974E2A7EA140003FCC89;
 			productRefGroup = A86A97582A7EA140003FCC89 /* Products */;
@@ -232,6 +236,7 @@
 			children = (
 				A86A97612A7EA140003FCC89 /* Base */,
 				A86A97892A7EDF8A003FCC89 /* it */,
+				A84FAE952A846D0F00FFA764 /* es */,
 			);
 			name = Main.storyboard;
 			sourceTree = "<group>";
@@ -241,6 +246,7 @@
 			children = (
 				A86A97662A7EA141003FCC89 /* Base */,
 				A86A978A2A7EDF8A003FCC89 /* it */,
+				A84FAE962A846D0F00FFA764 /* es */,
 			);
 			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
@@ -250,6 +256,7 @@
 			children = (
 				A86A97872A7EDE44003FCC89 /* Base */,
 				A86A978B2A7EDF8A003FCC89 /* it */,
+				A84FAE972A846D0F00FFA764 /* es */,
 			);
 			name = Localizable.strings;
 			sourceTree = "<group>";

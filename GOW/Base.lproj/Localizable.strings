@@ -19,6 +19,8 @@
 "weapon.hammer.dawn" = "Hammer of Dawn";
 "weapon.snub.pistol" = "MX8 Snub Pistol";
 
+//CGO Weapon descriptions
+
 "weapon.lancer.mark1.description" = "Dubbed the Retro Lancer during the Lambent Pandemic, was the predecessor to the Mark 2 Lancer Assault Rifle. Formerly the main assault rifle of the Coalition of Ordered Governments Army, the Mark 1 Assault Rifle was used throughout the Pendulum War.";
 "weapon.lancer.mark2.description" = "An upgrade to the Mark 1 Lancer Assault Rifle, produced with a chainsaw bayonet, increased accuracy, lower recoil, and larger ammunition carrying capacity but less firepower compared to its predecessor.";
 "weapon.longshot.sniper.description" = "Was a high-caliber, single-shot, bolt-action sniper rifle. Created by the Coalition of Ordered Governments during the Pendulum Wars, the Longshot was used even seventeen years after Emergence Day.";
@@ -32,3 +34,11 @@
 "weapon.mulcher" = "Mulcher";
 "weapon.bolo.grenade" = "Bolo Grenade";
 "weapon.boltok" = "Boltok Pistol";
+
+//Locust Weapon descriptions
+
+"weapon.boomshot.description" = "Was a single-shot, pump-action grenade launcher designed and used primarily by Locust, specifically the Boomer.";
+"weapon.hammerburst.description" = "Was the Locust standard-issue, high-powered assault rifle. It is often referred to as the Locust counterpart to the COG Lancer Assault Rifle.";
+"weapon.mulcher.description" = "The Mulcher is a heavy, hand-cranked, rotary gatling gun developed by the Coalition of Ordered Governments.";
+"weapon.bolo.grenade.description" = "The Bolo Grenade, otherwise known as the Fragmentation Grenade, was the standard-issue fragmentation grenade used by the Coalition of Ordered Governments, the Locust Horde and the Swarm.";
+"weapon.boltok.description" = "Was the standard-issue sidearm of the Locust, specifically the Drones. The pistol continues the Locust weapon-design philosophy of creating weapons with an emphasis towards brute force.";

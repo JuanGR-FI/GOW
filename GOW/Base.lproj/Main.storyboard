@@ -417,6 +417,7 @@
             <point key="canvasLocation" x="3391.6030534351144" y="753.52112676056345"/>
         </scene>
     </scenes>
+    <color key="tintColor" name="GOWRed"/>
     <resources>
         <image name="brain" catalog="system" width="128" height="107"/>
         <image name="figure.hunting" catalog="system" width="128" height="110"/>

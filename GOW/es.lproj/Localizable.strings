@@ -1,0 +1,44 @@
+/* 
+  Localizable.strings
+  GOW
+
+  Created by Juan Andrés Cervantes Guati Rojo on 05/08/23.
+  
+*/
+
+//CGO Weapons
+
+"menu.option.videogames" = "Videojuego";
+"menu.option.weapons" = "Armas";
+"menu.option.characters" = "Personajes";
+"menu.option.merchandise" = "Mercancia";
+
+"weapon.lancer.mark1" = "Rifle de asalto Lancer Mark 1";
+"weapon.lancer.mark2" = "Rifle de asalto Lancer Mark 2";
+"weapon.longshot.sniper" = "Rifle de francotirador de tiro largo";
+"weapon.hammer.dawn" = "Martillo del alba";
+"weapon.snub.pistol" = "Pistola MX8 Snub";
+
+//CGO Weapon descriptions
+
+"weapon.lancer.mark1.description" = "Apodado Retro Lancer durante la pandemia Lambent, fue el predecesor del rifle de asalto Mark 2 Lancer. Anteriormente, el rifle de asalto principal del Ejército de la Coalición de Gobiernos Ordenados, el rifle de asalto Mark 1 se usó durante la Guerra del Péndulo.";
+"weapon.lancer.mark2.description" = "Una actualización del rifle de asalto Mark 1 Lancer, producido con una bayoneta de motosierra, mayor precisión, menor retroceso y mayor capacidad de carga de municiones pero menos potencia de fuego en comparación con su predecesor.";
+"weapon.longshot.sniper.description" = "Era un rifle de francotirador de cerrojo, de un solo tiro y de alto calibre. Creado por la Coalición de Gobiernos Ordenados durante las Guerras del Péndulo, el Longshot se usó incluso diecisiete años después del Día de la Emergencia.";
+"weapon.hammer.dawn.description" = "El Martillo del Alba era un láser orbital basado en satélites, energizado por Imulsión COG. Sus componentes clave fueron inventados por el científico de la UIR Mauris Ivo y completados por el profesor Adam Fenix ​​después de que fuera robado durante la Operación: Leveler.";
+"weapon.snub.pistol.description" = "Era el arma estándar para el personal de las fuerzas armadas de la Coalición de Gobiernos Ordenados.";
+
+//Locust Weapons
+
+"weapon.boomshot" = "Lanzagranadas Boomshot";
+"weapon.hammerburst" = "Estallido de martillo II";
+"weapon.mulcher" = "Trituradora";
+"weapon.bolo.grenade" = "Granada Bolo";
+"weapon.boltok" = "Pistola Boltok";
+
+//Locust Weapon descriptions
+
+"weapon.boomshot.description" = "Fue un lanzagranadas de acción de bombeo de un solo disparo diseñado y utilizado principalmente por Locust, específicamente el Boomer.";
+"weapon.hammerburst.description" = "Era el rifle de asalto estándar Locust de alta potencia. A menudo se lo conoce como la contraparte Locust del rifle de asalto COG Lancer.";
+"weapon.mulcher.description" = "La Mulcher es una ametralladora Gatling rotativa, pesada y con manivela, desarrollada por la Coalición de Gobiernos Ordenados.";
+"weapon.bolo.grenade.description" = "La Granada Bolo, también conocida como Granada de Fragmentación, era la granada de fragmentación estándar utilizada por la Coalición de Gobiernos Ordenados, la Horda Locust y el Enjambre.";
+"weapon.boltok.description" = "Era el arma estándar de los Locust, específicamente de los Drones. La pistola continúa con la filosofía de diseño de armas Locust de crear armas con énfasis en la fuerza bruta.";
