@@ -15,6 +15,7 @@ class WeaponCell: UITableViewCell {
     override func awakeFromNib() {
         super.awakeFromNib()
         // Initialization code
+        wName.scale()
     }
 
     override func setSelected(_ selected: Bool, animated: Bool) {

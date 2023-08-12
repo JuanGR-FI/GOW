@@ -58,9 +58,9 @@ class WeaponsController: UIViewController, UITableViewDelegate, UITableViewDataS
     
     func tableView(_ tableView: UITableView, cellForRowAt indexPath: IndexPath) -> UITableViewCell {
         let cell = tableView.dequeueReusableCell(withIdentifier: "cell1") as! WeaponCell
-        cell.wName.text = NSLocalizedString(arrayWeapons[indexPath.row].name, comment: "")
+        cell.wName.text = (arrayWeapons[indexPath.row].name).localized
         cell.wImage.image = UIImage(named: arrayWeapons[indexPath.row].poster)
-        cell.wDescription.text = NSLocalizedString(arrayWeapons[indexPath.row].description, comment: "")
+        cell.wDescription.text = (arrayWeapons[indexPath.row].description).localized
         return cell
     }
     

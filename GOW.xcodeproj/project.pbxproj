@@ -22,6 +22,8 @@
 		A86A97822A7ECCEC003FCC89 /* WeaponCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A86A97812A7ECCEC003FCC89 /* WeaponCell.swift */; };
 		A86A97842A7ECF01003FCC89 /* Weapon.swift in Sources */ = {isa = PBXBuildFile; fileRef = A86A97832A7ECF01003FCC89 /* Weapon.swift */; };
 		A86A97882A7EDE45003FCC89 /* Localizable.strings in Resources */ = {isa = PBXBuildFile; fileRef = A86A97862A7EDE44003FCC89 /* Localizable.strings */; };
+		A8E30E222A86FF49008CA18E /* StringExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E30E212A86FF49008CA18E /* StringExtension.swift */; };
+		A8E30E442A871BD0008CA18E /* LabelExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = A8E30E432A871BD0008CA18E /* LabelExtension.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -48,6 +50,8 @@
 		A86A97892A7EDF8A003FCC89 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/Main.strings; sourceTree = "<group>"; };
 		A86A978A2A7EDF8A003FCC89 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = it.lproj/LaunchScreen.strings; sourceTree = "<group>"; };
 		A86A978B2A7EDF8A003FCC89 /* it */ = {isa = PBXFileReference; lastKnownFileType = text.plist.strings; name = it; path = ../it.lproj/Localizable.strings; sourceTree = "<group>"; };
+		A8E30E212A86FF49008CA18E /* StringExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtension.swift; sourceTree = "<group>"; };
+		A8E30E432A871BD0008CA18E /* LabelExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LabelExtension.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,7 @@
 		A86A97592A7EA140003FCC89 /* GOW */ = {
 			isa = PBXGroup;
 			children = (
+				A8E30E202A86FE35008CA18E /* Extensions */,
 				A86A97852A7EDDDB003FCC89 /* Localization */,
 				A86A97782A7EA9EA003FCC89 /* View */,
 				A86A97752A7EA81F003FCC89 /* Model */,
@@ -138,6 +143,15 @@
 				A86A97862A7EDE44003FCC89 /* Localizable.strings */,
 			);
 			path = Localization;
+			sourceTree = "<group>";
+		};
+		A8E30E202A86FE35008CA18E /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				A8E30E212A86FF49008CA18E /* StringExtension.swift */,
+				A8E30E432A871BD0008CA18E /* LabelExtension.swift */,
+			);
+			path = Extensions;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -215,6 +229,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A8E30E442A871BD0008CA18E /* LabelExtension.swift in Sources */,
 				A86A975B2A7EA140003FCC89 /* AppDelegate.swift in Sources */,
 				A86A977A2A7EAA19003FCC89 /* MenuOptionCell.swift in Sources */,
 				A86A97772A7EA83B003FCC89 /* MenuOption.swift in Sources */,
@@ -224,6 +239,7 @@
 				A86A975D2A7EA140003FCC89 /* SceneDelegate.swift in Sources */,
 				A86A97722A7EA5BA003FCC89 /* HomeViewController.swift in Sources */,
 				A86A97842A7ECF01003FCC89 /* Weapon.swift in Sources */,
+				A8E30E222A86FF49008CA18E /* StringExtension.swift in Sources */,
 				A81A075C2A81CBFC009200B0 /* LocustWeaponsController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
